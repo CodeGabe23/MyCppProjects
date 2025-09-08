@@ -1,7 +1,4 @@
-#include <iostream>
-#include <cstdlib> // for system()
-#include <vector>
-#include <string>
+#include "../include/allthestuff.h"
 
 int main(void)
 {
